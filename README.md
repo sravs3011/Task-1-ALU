@@ -1,4 +1,4 @@
-# ALU Task-1
+# ALU Task-1 - CodTech Internship
 
 This is my Task-1 for CodTech internship. In this I wrote Verilog code for a 4-bit ALU and also created a testbench to check different operations.
 
